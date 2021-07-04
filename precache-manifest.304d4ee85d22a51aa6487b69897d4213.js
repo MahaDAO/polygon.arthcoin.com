@@ -1,83 +1,79 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fa4bd3867bff88b1a64549c1f0844c7",
+    "revision": "f38548045fce4201cd424f3169588dfb",
     "url": "/index.html"
   },
   {
-    "revision": "2647352f92eed443438b",
+    "revision": "415bd1ff5ef93e9680cf",
     "url": "/static/css/3.0b5c1910.chunk.css"
   },
   {
-    "revision": "47fd6d97df526bfa879c",
-    "url": "/static/css/main.1e9defdb.chunk.css"
+    "revision": "828ce8a04a09acbbb9b1",
+    "url": "/static/css/main.3f615b88.chunk.css"
   },
   {
-    "revision": "274785c9e95c0d45822c",
-    "url": "/static/js/0.ba188824.chunk.js"
+    "revision": "42ec583790e67e302cd7",
+    "url": "/static/js/0.4f315fb8.chunk.js"
   },
   {
-    "revision": "89e641d2c3418caa12c4",
-    "url": "/static/js/10.d37afdef.chunk.js"
+    "revision": "9ae9dc1b42bac42c5ca4",
+    "url": "/static/js/10.11c83a0f.chunk.js"
   },
   {
-    "revision": "2647352f92eed443438b",
-    "url": "/static/js/3.97b7ffc2.chunk.js"
+    "revision": "415bd1ff5ef93e9680cf",
+    "url": "/static/js/3.0b9805d3.chunk.js"
   },
   {
-    "revision": "5d57e8ef3cc0db652e96c932a5a40ffc",
-    "url": "/static/js/3.97b7ffc2.chunk.js.LICENSE.txt"
+    "revision": "7eec4412599154ecfd15856f99f8a83f",
+    "url": "/static/js/3.0b9805d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab48aca9281d732613dd",
-    "url": "/static/js/4.f6f7fa29.chunk.js"
+    "revision": "a64757e88dac99ce1519",
+    "url": "/static/js/4.b04d2c5d.chunk.js"
   },
   {
-    "revision": "c86fd61e5c497b8fa6a8",
-    "url": "/static/js/5.119d5fe7.chunk.js"
+    "revision": "d2c90a39f52dec460657",
+    "url": "/static/js/5.f72a5a13.chunk.js"
   },
   {
     "revision": "800c8c88b71490b35d9e636bbf8c583d",
-    "url": "/static/js/5.119d5fe7.chunk.js.LICENSE.txt"
+    "url": "/static/js/5.f72a5a13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d856974e96e7663f071",
-    "url": "/static/js/6.69daa651.chunk.js"
+    "revision": "699bdde923a4e7730343",
+    "url": "/static/js/6.65a22a53.chunk.js"
   },
   {
     "revision": "88e5053053539c8b4a53480943cb0e08",
-    "url": "/static/js/6.69daa651.chunk.js.LICENSE.txt"
+    "url": "/static/js/6.65a22a53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31fefc7b2b2d1b87edf9",
-    "url": "/static/js/7.841b2907.chunk.js"
+    "revision": "68a31eca761cd51342ae",
+    "url": "/static/js/7.0a142622.chunk.js"
   },
   {
     "revision": "7ec01595672f75e83fd81b41f132f4c1",
-    "url": "/static/js/7.841b2907.chunk.js.LICENSE.txt"
+    "url": "/static/js/7.0a142622.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e62060f9da0c4a3407a5",
-    "url": "/static/js/8.fdce46b7.chunk.js"
+    "revision": "5c520c4f78b7bcd902c6",
+    "url": "/static/js/8.84c8aa7b.chunk.js"
   },
   {
     "revision": "d43bcb65c23262ca7bd991f5625a0c00",
-    "url": "/static/js/8.fdce46b7.chunk.js.LICENSE.txt"
+    "url": "/static/js/8.84c8aa7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5825225f46e6118b968",
-    "url": "/static/js/9.64e9c463.chunk.js"
+    "revision": "01f154f13067a72af507",
+    "url": "/static/js/9.4b4180ea.chunk.js"
   },
   {
-    "revision": "47fd6d97df526bfa879c",
-    "url": "/static/js/main.a84fe428.chunk.js"
+    "revision": "828ce8a04a09acbbb9b1",
+    "url": "/static/js/main.739690f4.chunk.js"
   },
   {
-    "revision": "b8d7969ab64159fc4e89",
-    "url": "/static/js/runtime-main.d76bd65f.js"
-  },
-  {
-    "revision": "8c775f0d169241399aca69128936bb71",
-    "url": "/static/media/ARTH-bg.8c775f0d.svg"
+    "revision": "719fa432d27a420cbfae",
+    "url": "/static/js/runtime-main.cf42452d.js"
   },
   {
     "revision": "8c775f0d169241399aca69128936bb71",
@@ -124,20 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CloseIcon.83493417.svg"
   },
   {
-    "revision": "13462fd031666dbfdd1bcb77c936a958",
-    "url": "/static/media/Cross-borader transactions.13462fd0.svg"
-  },
-  {
-    "revision": "c6abca0b0dd6505b2c4c12a71f1872d0",
-    "url": "/static/media/Cross-chain liquidity.c6abca0b.svg"
-  },
-  {
     "revision": "401ba63d3c722abe6d354fe5aff9d5fa",
     "url": "/static/media/DAI.401ba63d.png"
-  },
-  {
-    "revision": "609bdf4abbeac7f4a14a17e2744fa912",
-    "url": "/static/media/DAI.609bdf4a.svg"
   },
   {
     "revision": "3488cef93217830d88d1544651ca94e1",
@@ -156,14 +140,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ETH.6ab4f23d.svg"
   },
   {
-    "revision": "ea78b16b5d3533fae6a64664bc0a8b50",
-    "url": "/static/media/Ecosystem-Desktop.ea78b16b.svg"
-  },
-  {
-    "revision": "58170ab06763774b136e610d65b7c26c",
-    "url": "/static/media/Ecosystem-Mobile.58170ab0.svg"
-  },
-  {
     "revision": "6abe155379bc3b6cfc8fcdd454916e2b",
     "url": "/static/media/InfoIcon.6abe1553.svg"
   },
@@ -178,10 +154,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e13d083ae6e05df7380e36e3be8befb6",
     "url": "/static/media/Matic.e13d083a.webp"
-  },
-  {
-    "revision": "fecc812f9f597895313ab2838e395bfa",
-    "url": "/static/media/Matic.fecc812f.svg"
   },
   {
     "revision": "1c03e3df9b2acf793919ce42ab1c1646",
@@ -208,10 +180,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Tick.41f3a584.svg"
   },
   {
-    "revision": "0dcc9259479a882cd174a58ce5fb0f78",
-    "url": "/static/media/USD.0dcc9259.svg"
-  },
-  {
     "revision": "339301243c50dcb824c14b9b2ba9abc5",
     "url": "/static/media/USDC.33930124.svg"
   },
@@ -220,16 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/USDT.482358b1.svg"
   },
   {
-    "revision": "a20571752b4ce9afac7eceec8f2726ab",
-    "url": "/static/media/USDT.a2057175.svg"
-  },
-  {
     "revision": "f5771ec67e978311ef7f3e9c8b8ea1c3",
     "url": "/static/media/UniswapWhite.f5771ec6.svg"
-  },
-  {
-    "revision": "455f96d0270e88e0749c8c192f24bdb5",
-    "url": "/static/media/Vector.455f96d0.png"
   },
   {
     "revision": "a39e0daabba942270e86d6906cf5809c",
@@ -248,28 +208,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/arrowDown2.7a65218e.svg"
   },
   {
+    "revision": "18417beeff8a2c2125c3ca1b6aeaf5f0",
+    "url": "/static/media/arrowRightWhite.18417bee.svg"
+  },
+  {
     "revision": "73ffc2d24fbe07e64eb3555df83bd390",
     "url": "/static/media/arrowUp.73ffc2d2.svg"
   },
   {
-    "revision": "1776e3d9031312a788cda27e39453d55",
-    "url": "/static/media/arth-coin-1.1776e3d9.svg"
-  },
-  {
-    "revision": "72fedf7379e675f02bc64e6b50549e7c",
-    "url": "/static/media/arth-maha-dao.72fedf73.svg"
-  },
-  {
     "revision": "932b365c0f91b586cb2330b4c07b598b",
     "url": "/static/media/arthLogo.932b365c.svg"
-  },
-  {
-    "revision": "5615fb9bfb5eb66a97aea6890adacf3e",
-    "url": "/static/media/arthborderlines.5615fb9b.svg"
-  },
-  {
-    "revision": "6b21fc248df9d0550f270e1847834d63",
-    "url": "/static/media/arthframe.6b21fc24.svg"
   },
   {
     "revision": "5a8671342748614f5f3d4d02e6c14b27",
@@ -284,28 +232,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/copy.000f95f0.svg"
   },
   {
-    "revision": "45ca6038b2ec579c37ff14b13088a8ff",
-    "url": "/static/media/cross-border-transactions.45ca6038.png"
-  },
-  {
-    "revision": "23415cab920d5eaaa6d7333e9bc0aa81",
-    "url": "/static/media/cross-chain-liquidity.23415cab.png"
-  },
-  {
-    "revision": "468d14a7859b6373b49c7c4c44ed473a",
-    "url": "/static/media/easyfi.468d14a7.svg"
-  },
-  {
     "revision": "40464707f582b6a72171c0df7d319c06",
     "url": "/static/media/ethereumChain.40464707.svg"
-  },
-  {
-    "revision": "4e26f6afcaefa6ca77f88ec211e809d0",
-    "url": "/static/media/f-icon-1.4e26f6af.svg"
-  },
-  {
-    "revision": "518fcb79e46ca406f5ee74dc9354ea41",
-    "url": "/static/media/f-icon-5.518fcb79.svg"
   },
   {
     "revision": "3fec7dccfd6aada03dd19144e2468523",
@@ -324,10 +252,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/maha.fca2fd7d.svg"
   },
   {
-    "revision": "9a428e1f4de00d26289bc54d38ba566c",
-    "url": "/static/media/mandal.9a428e1f.png"
-  },
-  {
     "revision": "fadd8d3175a635ee3f08f45a66a77f9a",
     "url": "/static/media/metamask.fadd8d31.svg"
   },
@@ -338,10 +262,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b803b342a11e5e8e18cc0e0abf5e5127",
     "url": "/static/media/plus.b803b342.svg"
-  },
-  {
-    "revision": "4a96c3d2a104a1481853db9049bb292a",
-    "url": "/static/media/polygon.4a96c3d2.svg"
   },
   {
     "revision": "e22d45684bc034c1b8663ab28bd60aef",
@@ -358,10 +278,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae2913a816ad503a2d0033b18f06ab5f",
     "url": "/static/media/wallet-24.ae2913a8.svg"
-  },
-  {
-    "revision": "ee86a8303e7c96d6f19ac13f24068ee9",
-    "url": "/static/media/warning.ee86a830.svg"
   },
   {
     "revision": "372d06ef19500c595f924fc79ad8c9c6",
