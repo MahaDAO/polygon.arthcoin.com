@@ -1,79 +1,79 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2cb6ab12a4e69d87664545f20ac62a0",
+    "revision": "f6c3f9bc48aaed4b04c6dad673e2409f",
     "url": "/index.html"
   },
   {
-    "revision": "f8e32a3f5baf38ebc9ce",
+    "revision": "bd0863339433d7961a89",
     "url": "/static/css/3.0b5c1910.chunk.css"
   },
   {
-    "revision": "0d4deb939443333c04cd",
+    "revision": "610dec5ab0cf6c466356",
     "url": "/static/css/main.3a1f4a72.chunk.css"
   },
   {
-    "revision": "bd3e204e37aa450445fb",
-    "url": "/static/js/0.3e15b10d.chunk.js"
+    "revision": "7f115893d8ae250c7c08",
+    "url": "/static/js/0.2cd2762e.chunk.js"
   },
   {
-    "revision": "8ee3818cf524b413d0e8",
-    "url": "/static/js/10.91a99411.chunk.js"
+    "revision": "a4fa05aa734e76c200a8",
+    "url": "/static/js/10.9f4c0240.chunk.js"
   },
   {
-    "revision": "f8e32a3f5baf38ebc9ce",
-    "url": "/static/js/3.1b576834.chunk.js"
+    "revision": "bd0863339433d7961a89",
+    "url": "/static/js/3.18f8a56c.chunk.js"
   },
   {
     "revision": "7eec4412599154ecfd15856f99f8a83f",
-    "url": "/static/js/3.1b576834.chunk.js.LICENSE.txt"
+    "url": "/static/js/3.18f8a56c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "486a92be543628819eda",
-    "url": "/static/js/4.84490f9f.chunk.js"
+    "revision": "9885042d5d531107b7c2",
+    "url": "/static/js/4.87bfea0b.chunk.js"
   },
   {
-    "revision": "a4f4cd48a41125b47152",
-    "url": "/static/js/5.e8c3ee01.chunk.js"
+    "revision": "5acb97436e23cd81ac6b",
+    "url": "/static/js/5.1c477055.chunk.js"
   },
   {
     "revision": "800c8c88b71490b35d9e636bbf8c583d",
-    "url": "/static/js/5.e8c3ee01.chunk.js.LICENSE.txt"
+    "url": "/static/js/5.1c477055.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b9baf3b2b90cc33234a",
-    "url": "/static/js/6.c07e25bc.chunk.js"
+    "revision": "f6758416dfc4afa05beb",
+    "url": "/static/js/6.a9aad15c.chunk.js"
   },
   {
     "revision": "88e5053053539c8b4a53480943cb0e08",
-    "url": "/static/js/6.c07e25bc.chunk.js.LICENSE.txt"
+    "url": "/static/js/6.a9aad15c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6f6341e5b83e96b9cd8",
-    "url": "/static/js/7.a99b3cec.chunk.js"
+    "revision": "db490aacafba09931746",
+    "url": "/static/js/7.e5ee70e3.chunk.js"
   },
   {
     "revision": "7ec01595672f75e83fd81b41f132f4c1",
-    "url": "/static/js/7.a99b3cec.chunk.js.LICENSE.txt"
+    "url": "/static/js/7.e5ee70e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cad41793a1e968b45011",
-    "url": "/static/js/8.44cea353.chunk.js"
+    "revision": "a6e07c4e10fa8949c489",
+    "url": "/static/js/8.3582feaa.chunk.js"
   },
   {
     "revision": "d43bcb65c23262ca7bd991f5625a0c00",
-    "url": "/static/js/8.44cea353.chunk.js.LICENSE.txt"
+    "url": "/static/js/8.3582feaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edb0a2b7a62bdb4c0b2e",
-    "url": "/static/js/9.3d6f7135.chunk.js"
+    "revision": "392ab5de3d448f3fb265",
+    "url": "/static/js/9.7a65677f.chunk.js"
   },
   {
-    "revision": "0d4deb939443333c04cd",
-    "url": "/static/js/main.96b9ed50.chunk.js"
+    "revision": "610dec5ab0cf6c466356",
+    "url": "/static/js/main.79e35ef5.chunk.js"
   },
   {
-    "revision": "67ed3d8a62684f916fa1",
-    "url": "/static/js/runtime-main.26ab627e.js"
+    "revision": "aa49241b7b158ce59c9a",
+    "url": "/static/js/runtime-main.cbba818e.js"
   },
   {
     "revision": "8c775f0d169241399aca69128936bb71",
@@ -200,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/YFI.1cb05268.webp"
   },
   {
+    "revision": "21d86636947e9531bab98943686f15c0",
+    "url": "/static/media/arrowDown.21d86636.svg"
+  },
+  {
     "revision": "18417beeff8a2c2125c3ca1b6aeaf5f0",
     "url": "/static/media/arrowRightWhite.18417bee.svg"
   },
@@ -242,6 +246,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d0775d87c4a797a8fe3c1eebbd95557",
     "url": "/static/media/pendingTransaction.0d0775d8.svg"
+  },
+  {
+    "revision": "b803b342a11e5e8e18cc0e0abf5e5127",
+    "url": "/static/media/plus.b803b342.svg"
   },
   {
     "revision": "e22d45684bc034c1b8663ab28bd60aef",
